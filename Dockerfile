@@ -5,7 +5,7 @@ STOPSIGNAL SIGTERM
 ##############BASE IMAGE##############
 
 ####Labels####
-LABEL maintainer="vinanrra"
+LABEL maintainer="lorthe"
 LABEL build_version="version: 0.5.1"
 
 ####Environments ####
